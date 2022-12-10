@@ -1300,12 +1300,15 @@ html {
 			margin-right: 20px;
 			margin-bottom: 50px;
 		}
+		.paragraph-white.bigger{
+			margin-right: 20px;
+		}
 		.button{
 			font-size: 12px;
 			padding: 15px 25px;
 			margin-left: 20px;
 		}
-	   .banner-desc>h1 {
+	        .banner-desc>h1 {
 		font-size: 40px;
 		line-height: 50px;
 		padding-left: 10px;
